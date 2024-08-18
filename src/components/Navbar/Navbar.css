@@ -1,0 +1,19 @@
+.navbar{
+    background-color: burlywood;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+.navbar-link{
+    margin: 0px 30px;
+    color: brown;
+    border: solid;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(220, 213, 203);
+    text-decoration: none;
+}

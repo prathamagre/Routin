@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.header-img{
+  height: 450px;
+  display: block;
+  margin: -40px auto ;
+  padding: 0;
+}
+
+.page-title{
+  text-align: center;
+  color: rgb(115, 3, 3);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color:rgb(220, 213, 203);
+  padding: 5px;
+  margin: 10px;
+  border-radius: 10px;
+}
